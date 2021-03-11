@@ -1,0 +1,38 @@
+factoryRequest/Put.java
+ factoryRequest.Put
+factoryRequest/Delete.java
+ factoryRequest.Delete
+helpers/GenereteLocalReport.java
+ helpers.GenereteLocalReport
+factoryRequest/RequestInformation.java
+ factoryRequest.RequestInformation
+basicRestAssured/BasicTest.java
+ basicRestAssured.BasicTest
+basicRestAssured/CRUDProjectTokenTest.java
+ basicRestAssured.CRUDProjectTokenTest
+factoryRequest/IRequest.java
+ factoryRequest.IRequest
+factoryRequest/FactoryRequest.java
+ factoryRequest.FactoryRequest
+factoryRequest/Post.java
+ factoryRequest.Post
+basicRestAssured/CRUDProjectTest.java
+ basicRestAssured.CRUDProjectTest
+runner/MyStepdefs.java
+ runner.MyStepdefs
+runner/Runner.java
+ runner.Runner
+utilsJson/JsonHelper.java
+ utilsJson.JsonHelper
+factoryRequest/Get.java
+ factoryRequest.Get
+runner/MyStepsClean.java
+ runner.MyStepsClean
+basicRestAssured/CRUDItemTest.java
+ basicRestAssured.CRUDItemTest
+unitTest/JsonCompareTest.java
+ unitTest.JsonCompareTest
+configuration/Config.java
+ configuration.Config
+factoryRequest/Patch.java
+ factoryRequest.Patch
